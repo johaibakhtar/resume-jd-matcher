@@ -26,3 +26,6 @@ Python, Streamlit, Sentence-Transformers, scikit-learn, BeautifulSoup, Pandas
 2. Both are converted into semantic embeddings using Sentence-BERT
 3. Cosine similarity is computed to generate a match score
 4. A keyword-based skill gap analysis highlights matched, missing, and extra skills
+
+## 🔗 Live Demo
+[Try the app here](https://resume-jd-matcher-lts9uzt5aadkg5edmhggyz.streamlit.app/)
